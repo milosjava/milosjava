@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+![Snake animation](https://raw.githubusercontent.com/chrisaddy/chrisaddy/output/github-contribution-grid-snake.svg)
+
+
+
 <!--
 **milosjava/milosjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
