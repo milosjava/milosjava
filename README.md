@@ -2,7 +2,7 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/chrisaddy/chrisaddy/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/milosjava/milosjava/output/github-contribution-grid-snake.svg)
 
 
 
