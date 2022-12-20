@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Milos, mlops and data scientist with a programming background. Have a strong foundation in ML and computer science and use these skills to solve complex problems.
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/milosjava/milosjava/output/github-contribution-grid-snake.svg)
