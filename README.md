@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Milos, mlops and data scientist with a programming background. Have a strong foundation in ML and computer science and use these skills to solve complex problems.
+I am Milos, mlops and data scientist with a programming background. Have a strong foundation in ML and computer science and use these skills to solve complex problems. Here's the little snake that is eating my github contributions. 
 
 
 
