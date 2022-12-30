@@ -6,7 +6,7 @@ I am Milos, mlops and data scientist with a programming background. Have a stron
 
 ### Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=milosjava&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" /></div> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" /></div> 
 
 
 
