@@ -5,8 +5,8 @@ I am Milos, mlops and data scientist with a programming background. Have a stron
 ![Snake animation](https://raw.githubusercontent.com/milosjava/milosjava/output/github-contribution-grid-snake.svg)
 
 ### Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=milosjava&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" /></div> 
+<div align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" /></div> 
 
 
 
