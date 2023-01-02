@@ -27,13 +27,6 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 <a href="https://www.apple.com/macos/ventura/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> </a>
 </p>
 
-
-
-### - Github Stats  
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" />
-</div> 
-
 ### - Stackoverflow Stats
 <div>
 <a href="https://stackoverflow.com/users/4185364">
