@@ -19,7 +19,6 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 <a href="https://kserve.github.io/website/latest" target="_blank" rel="noreferrer"> <img src="images/kserve.png" alt="kserve" width="40" height="40"/> </a>
 </p>
 
-apple-original.svg
 ### OS
 
 <p>
@@ -30,8 +29,8 @@ apple-original.svg
 
 
 ### Github Stats  
-<div align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" />
 </div> 
 
 ### Stackoverflow Stats
