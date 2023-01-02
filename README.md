@@ -34,6 +34,13 @@ apple-original.svg
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" />
 </div> 
 
+<p>
+### Stackoverflow Stats
+<a href="https://stackoverflow.com/users/4185364">
+  <img src="images/4185364.svg" alt="SO profile">
+</a>
+</p>
+
 
 
 <!--
