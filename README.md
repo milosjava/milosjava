@@ -10,6 +10,7 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40"/> </a>
+<a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer"> <img src="images/kubeflow.jpg" alt="kubeflow" width="40" height="40"/> </a>
 
 
 </p>
@@ -22,6 +23,7 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 <div align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" />
 </div> 
+
 
 
 <!--
