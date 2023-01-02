@@ -4,10 +4,11 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 
 ![Snake animation](https://raw.githubusercontent.com/milosjava/milosjava/output/github-contribution-grid-snake.svg)
 
-### Languages and Tools
+### - Languages and Tools
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="`R`" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="images/Apache_Spark_logo.svg.png" alt="Apache Spark" width="40" height="40"/> </a>
@@ -19,7 +20,7 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 <a href="https://kserve.github.io/website/latest" target="_blank" rel="noreferrer"> <img src="images/kserve.png" alt="kserve" width="40" height="40"/> </a>
 </p>
 
-### OS
+### - OS
 
 <p>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
@@ -28,12 +29,12 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 
 
 
-### Github Stats  
+### - Github Stats  
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact&count_private=true" alt="milosjava" />
 </div> 
 
-### Stackoverflow Stats
+### - Stackoverflow Stats
 <div>
 <a href="https://stackoverflow.com/users/4185364">
   <img src="images/4185364.svg" alt="SO profile">
