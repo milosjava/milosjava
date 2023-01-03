@@ -35,6 +35,9 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 </div>
 
 
+### Github (public) stats:
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact" alt="milosjava" /></p>
+
 
 <!--
 **milosjava/milosjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
