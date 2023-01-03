@@ -4,7 +4,7 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 
 ![Snake animation](https://raw.githubusercontent.com/milosjava/milosjava/output/github-contribution-grid-snake.svg)
 
-### - Languages and Tools
+### Languages and Tools
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
@@ -20,14 +20,14 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 <a href="https://kserve.github.io/website/latest" target="_blank" rel="noreferrer"> <img src="images/kserve.png" alt="kserve" width="40" height="40"/> </a>
 </p>
 
-### - OS
+### OS:
 
 <p>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.apple.com/macos/ventura/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> </a>
 </p>
 
-### - Stackoverflow Stats
+### Stackoverflow Stats:
 <div>
 <a href="https://stackoverflow.com/users/4185364">
   <img src="images/4185364.svg" alt="SO profile">
