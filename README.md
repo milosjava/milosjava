@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am Milos, mlops and data scientist with a programming background and 15+ years of experience. Have a strong foundation in ML and computer science and use these skills to solve complex problems. Here's the little snake that is eating my github contributions. 
+I am Milos, mlops and data scientist with a programming background and 15+ years of experience. Have a strong foundation in ML and computer science and use these skills to solve complex problems. 
 
-![Snake animation](https://raw.githubusercontent.com/milosjava/milosjava/output/github-contribution-grid-snake.svg)
+[//]: # (Here's the little snake that is eating my github contributions. )
+
+[//]: # ()
+[//]: # (![Snake animation]&#40;https://raw.githubusercontent.com/milosjava/milosjava/output/github-contribution-grid-snake.svg&#41;)
 
 ### Languages and Tools:
 <p>
@@ -36,22 +39,7 @@ I am Milos, mlops and data scientist with a programming background and 15+ years
 </a>
 </div>
 
-
 ### Github (public repos) stats:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact" alt="milosjava" /></p>
-
-
-<!--
-**milosjava/milosjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=milosjava&show_icons=true&locale=en&layout=compact" alt="milosjava" /></p>
+</div>
