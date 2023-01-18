@@ -18,7 +18,7 @@ Here's the little snake that is eating my github contributions:
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.apple.com/macos/ventura/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://stackexchange.com/users/354646"><img src="https://stackexchange.com/users/flair/354646.png" width="208" height="58" alt="profile for milos.ai on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for milos.ai on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+ <a href="https://stackoverflow.com/users/4185364/milos-ai?tab=profile"><img src="https://stackexchange.com/users/flair/354646.png" width="208" height="58" alt="profile for milos.ai on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for milos.ai on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
   
 <br/>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
