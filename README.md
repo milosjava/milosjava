@@ -20,7 +20,7 @@ Here's the little snake that is eating my github contributions:
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer"> <img src="images/kubeflow.jpg" alt="kubeflow" width="40" height="40"/> </a>
 <a href="https://kserve.github.io/website/latest" target="_blank" rel="noreferrer"> <img src="images/kserve.png" alt="kserve" width="40" height="40"/> </a>
-<a href="https://github.com/kubeflow/katib" target="_blank" rel="noreferrer"> <img src="images/katib_official_logo.png" alt="katib" width="40" height="40"/> </a>
+<a href="https://github.com/kubeflow/katib" target="_blank" rel="noreferrer"> <img src="images/katib_official_logo.png" alt="katib" width="45" height="45"/> </a>
 </p>
 
 ### Stackoverflow:
