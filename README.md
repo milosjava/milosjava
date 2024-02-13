@@ -15,7 +15,6 @@ Here's the little snake that is eating my github contributions:
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="images/Apache_Spark_logo.svg.png" alt="Apache Spark" width="40" height="40"/> </a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="images/databricks.png" alt="Databricks" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer"> <img src="images/kubeflow.jpg" alt="kubeflow" width="40" height="40"/> </a>
