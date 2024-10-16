@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Milos, mlops and data scientist with a programming background since 2006. Have a strong foundation in ML and computer science and use these skills to solve complex problems.
-Here's the little snake that is eating my github contributions:
+ML Engineer and Data Scientist with an MSc in Computer Engineering (2005). Currently pursuing a PhD in Software Engineering.
 
 ![Snake animation](https://github.com/milosjava/milosjava/blob/output/github-contribution-grid-snake.svg)
 
