@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-ML Engineer and Data Scientist with an MSc in Computer Engineering (2005). Currently pursuing a PhD in Software Engineering.
+ML Engineer and Data Scientist with an MSc in Computer Engineering (2005), currently pursuing a PhD in Software Engineering.
 
 ![Snake animation](https://github.com/milosjava/milosjava/blob/output/github-contribution-grid-snake.svg)
 
