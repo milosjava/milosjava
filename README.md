@@ -1,27 +1,23 @@
 ### Hi there 👋
 
-ML Engineer and Data Scientist with an MSc in Computer Engineering (2005), currently pursuing a PhD in Software Engineering.
+I'm **Milos Grubjesic**, a **Machine Learning Engineer** passionate about **MLOps, Kubeflow, Kubernetes, and production-grade ML systems**.
+
+My work is centered around building practical ML infrastructure and helping machine learning move from experimentation to reliable production use. I’m also pursuing a **PhD in Software Engineering**, with research interests in **optimization, applied AI, and real-world ML systems**.
+
+### Current Focus
+
+- 🔭 ML platforms and workflow orchestration with **Kubeflow**
+- ⚙️ Production ML systems on **Kubernetes**
+- 🧪 Research in **optimization** and **applied machine learning**
+
+### Research & Writing
+
+- 🎓 PhD student in Software Engineering
+- 🆔 ORCID: [0009-0007-3346-8442](https://orcid.org/0009-0007-3346-8442)
+- 📚 Google Scholar: [Profile](https://scholar.google.com/citations?user=z79J0ogAAAAJ)
+
 
 ![Snake animation](https://github.com/milosjava/milosjava/blob/output/github-contribution-grid-snake.svg)
 
-### Languages and Tools:
-<p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="`R`" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="images/Apache_Spark_logo.svg.png" alt="Apache Spark" width="40" height="40"/> </a>
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="images/databricks.png" alt="Databricks" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer"> <img src="images/kubeflow.jpg" alt="kubeflow" width="40" height="40"/> </a>
-<a href="https://kserve.github.io/website/latest" target="_blank" rel="noreferrer"> <img src="images/kserve.png" alt="kserve" width="40" height="40"/> </a>
-<a href="https://github.com/kubeflow/katib" target="_blank" rel="noreferrer"> <img src="images/katib.svg" alt="katib" width="40" height="40"/> </a>
-</p>
-
-### Stackoverflow:
- <a href="https://stackoverflow.com/users/4185364/milos-ai?tab=profile"><img src="https://stackexchange.com/users/flair/354646.png" width="208" height="58" alt="profile for milos.ai on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for milos.ai on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
