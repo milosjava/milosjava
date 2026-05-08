@@ -2,7 +2,7 @@
 
 I'm **Milos Grubjesic**, a **Machine Learning Engineer and Data Scientist** passionate about **AI, GenAI, MLOps, and Machine Learning**.
 
-I hold an **MSc in Computer Engineering (2005)** and have been pursuing a **PhD in Software Engineering since 2024**. My work is centered around building practical ML infrastructure and helping machine learning move from experimentation to reliable production use, with research interests in **optimization, applied AI, and real-world ML systems**.
+I hold an **MSc in Computer Engineering (2005)** and have been pursuing a **PhD in Software Engineering since 2024**. My work is centered around building practical ML infrastructure and helping machine learning move from experimentation to reliable production use, with research interests in **optimization, applied AI, metaheuristics and real-world ML systems**.
 
 ### Current Focus
 
